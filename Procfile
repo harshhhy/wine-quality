@@ -1,0 +1,1 @@
+web: gunicorn Red_Wine.wsgi --log-file -
